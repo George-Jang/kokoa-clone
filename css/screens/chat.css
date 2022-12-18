@@ -112,7 +112,7 @@
 }
 
 .message-row--own .message__bubble{
-    background-color:var(--yellow);
+    background-color:#fae100;
     border-top-right-radius: 0px;
     border-top-left-radius: 15px;
     margin-right: 0px;
@@ -169,7 +169,7 @@
 }
 
 .reply__column button{
-    background-color: var(--yellow);
+    background-color: #fae100;
     border: none;
     width: 30px;
     height: 30px;
